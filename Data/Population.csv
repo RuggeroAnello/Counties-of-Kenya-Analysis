@@ -1,0 +1,289 @@
+Administrative_Unit_Name;background_characteristic;Unit;Date;Value;Administrative Unit - RegionId
+Kenya;Total Population;Number;2019;47564296;KE
+Kenya;Male;Number;2019;23548056;KE
+Kenya;Female;Number;2019;24014716;KE
+Kenya;Total Households;Number;2019;12143913;KE
+Kenya;Land Area;sq. km;2019;580895;KE
+Kenya;Density;persons per sq. km;2019;82;KE
+Mombasa;Total Population;Number;2019;1208333;KE-300-MO
+Mombasa;Male;Number;2019;610257;KE-300-MO
+Mombasa;Female;Number;2019;598046;KE-300-MO
+Mombasa;Total Households;Number;2019;378422;KE-300-MO
+Mombasa;Land Area;sq. km;2019;220;KE-300-MO
+Mombasa;Density;persons per sq. km;2019;5495;KE-300-MO
+Kwale;Total Population;Number;2019;866820;KE-300-KW
+Kwale;Male;Number;2019;425121;KE-300-KW
+Kwale;Female;Number;2019;441681;KE-300-KW
+Kwale;Total Households;Number;2019;173176;KE-300-KW
+Kwale;Land Area;sq. km;2019;8254;KE-300-KW
+Kwale;Density;persons per sq. km;2019;105;KE-300-KW
+Kilifi;Total Population;Number;2019;1453787;KE-300-KI
+Kilifi;Male;Number;2019;704089;KE-300-KI
+Kilifi;Female;Number;2019;749673;KE-300-KI
+Kilifi;Total Households;Number;2019;298472;KE-300-KI
+Kilifi;Land Area;sq. km;2019;12553;KE-300-KI
+Kilifi;Density;persons per sq. km;2019;116;KE-300-KI
+Tana River;Total Population;Number;2019;315943;KE-300-TR
+Tana River;Male;Number;2019;158550;KE-300-TR
+Tana River;Female;Number;2019;157391;KE-300-TR
+Tana River;Total Households;Number;2019;68242;KE-300-TR
+Tana River;Land Area;sq. km;2019;37904;KE-300-TR
+Tana River;Density;persons per sq. km;2019;8;KE-300-TR
+Lamu;Total Population;Number;2019;143920;KE-300-LA
+Lamu;Male;Number;2019;76103;KE-300-LA
+Lamu;Female;Number;2019;67813;KE-300-LA
+Lamu;Total Households;Number;2019;37963;KE-300-LA
+Lamu;Land Area;sq. km;2019;6283;KE-300-LA
+Lamu;Density;persons per sq. km;2019;23;KE-300-LA
+Taita Taveta;Total Population;Number;2019;340671;KE-300-TT
+Taita Taveta;Male;Number;2019;173337;KE-300-TT
+Taita Taveta;Female;Number;2019;167327;KE-300-TT
+Taita Taveta;Total Households;Number;2019;96429;KE-300-TT
+Taita Taveta;Land Area;sq. km;2019;17152;KE-300-TT
+Taita Taveta;Density;persons per sq. km;2019;20;KE-300-TT
+Garissa;Total Population;Number;2019;841353;KE-500-GA
+Garissa;Male;Number;2019;458975;KE-500-GA
+Garissa;Female;Number;2019;382344;KE-500-GA
+Garissa;Total Households;Number;2019;141394;KE-500-GA
+Garissa;Land Area;sq. km;2019;44753;KE-500-GA
+Garissa;Density;persons per sq. km;2019;19;KE-500-GA
+Wajir;Total Population;Number;2019;781263;KE-500-WA
+Wajir;Male;Number;2019;415374;KE-500-WA
+Wajir;Female;Number;2019;365840;KE-500-WA
+Wajir;Total Households;Number;2019;127932;KE-500-WA
+Wajir;Land Area;sq. km;2019;56774;KE-500-WA
+Wajir;Density;persons per sq. km;2019;14;KE-500-WA
+Mandera;Total Population;Number;2019;867457;KE-500-MA
+Mandera;Male;Number;2019;434976;KE-500-MA
+Mandera;Female;Number;2019;432444;KE-500-MA
+Mandera;Total Households;Number;2019;125763;KE-500-MA
+Mandera;Land Area;sq. km;2019;25942;KE-500-MA
+Mandera;Density;persons per sq. km;2019;33;KE-500-MA
+Marsabit;Total Population;Number;2019;459785;KE-400-MB
+Marsabit;Male;Number;2019;243548;KE-400-MB
+Marsabit;Female;Number;2019;216219;KE-400-MB
+Marsabit;Total Households;Number;2019;77495;KE-400-MB
+Marsabit;Land Area;sq. km;2019;70944;KE-400-MB
+Marsabit;Density;persons per sq. km;2019;6;KE-400-MB
+Isiolo;Total Population;Number;2019;268002;KE-400-IS
+Isiolo;Male;Number;2019;139510;KE-400-IS
+Isiolo;Female;Number;2019;128483;KE-400-IS
+Isiolo;Total Households;Number;2019;58072;KE-400-IS
+Isiolo;Land Area;sq. km;2019;25349;KE-400-IS
+Isiolo;Density;persons per sq. km;2019;11;KE-400-IS
+Meru;Total Population;Number;2019;1545714;KE-400-MU
+Meru;Male;Number;2019;767698;KE-400-MU
+Meru;Female;Number;2019;777975;KE-400-MU
+Meru;Total Households;Number;2019;426360;KE-400-MU
+Meru;Land Area;sq. km;2019;7014;KE-400-MU
+Meru;Density;persons per sq. km;2019;220;KE-400-MU
+Tharaka Nithi;Total Population;Number;2019;393177;KE-400-TN
+Tharaka Nithi;Male;Number;2019;193764;KE-400-TN
+Tharaka Nithi;Female;Number;2019;199406;KE-400-TN
+Tharaka Nithi;Total Households;Number;2019;109860;KE-400-TN
+Tharaka Nithi;Land Area;sq. km;2019;2564;KE-400-TN
+Tharaka Nithi;Density;persons per sq. km;2019;153;KE-400-TN
+Embu;Total Population;Number;2019;608599;KE-400-EM
+Embu;Male;Number;2019;304208;KE-400-EM
+Embu;Female;Number;2019;304367;KE-400-EM
+Embu;Total Households;Number;2019;182743;KE-400-EM
+Embu;Land Area;sq. km;2019;2821;KE-400-EM
+Embu;Density;persons per sq. km;2019;216;KE-400-EM
+Kitui;Total Population;Number;2019;1136187;KE-400-KI
+Kitui;Male;Number;2019;549003;KE-400-KI
+Kitui;Female;Number;2019;587151;KE-400-KI
+Kitui;Total Households;Number;2019;262942;KE-400-KI
+Kitui;Land Area;sq. km;2019;30430;KE-400-KI
+Kitui;Density;persons per sq. km;2019;37;KE-400-KI
+Machakos;Total Population;Number;2019;1421932;KE-400-MC
+Machakos;Male;Number;2019;710707;KE-400-MC
+Machakos;Female;Number;2019;711191;KE-400-MC
+Machakos;Total Households;Number;2019;402466;KE-400-MC
+Machakos;Land Area;sq. km;2019;6037;KE-400-MC
+Machakos;Density;persons per sq. km;2019;236;KE-400-MC
+Makueni;Total Population;Number;2019;987653;KE-400-MA
+Makueni;Male;Number;2019;489691;KE-400-MA
+Makueni;Female;Number;2019;497942;KE-400-MA
+Makueni;Total Households;Number;2019;244669;KE-400-MA
+Makueni;Land Area;sq. km;2019;8177;KE-400-MA
+Makueni;Density;persons per sq. km;2019;121;KE-400-MA
+Nyandarua;Total Population;Number;2019;638289;KE-200-NY
+Nyandarua;Male;Number;2019;315022;KE-200-NY
+Nyandarua;Female;Number;2019;323247;KE-200-NY
+Nyandarua;Total Households;Number;2019;179686;KE-200-NY
+Nyandarua;Land Area;sq. km;2019;3286;KE-200-NY
+Nyandarua;Density;persons per sq. km;2019;194;KE-200-NY
+Nyeri;Total Population;Number;2019;759164;KE-200-NE
+Nyeri;Male;Number;2019;374288;KE-200-NE
+Nyeri;Female;Number;2019;384845;KE-200-NE
+Nyeri;Total Households;Number;2019;248050;KE-200-NE
+Nyeri;Land Area;sq. km;2019;3325;KE-200-NE
+Nyeri;Density;persons per sq. km;2019;228;KE-200-NE
+Kirinyaga;Total Population;Number;2019;610411;KE-200-KR
+Kirinyaga;Male;Number;2019;302011;KE-200-KR
+Kirinyaga;Female;Number;2019;308369;KE-200-KR
+Kirinyaga;Total Households;Number;2019;204188;KE-200-KR
+Kirinyaga;Land Area;sq. km;2019;1478;KE-200-KR
+Kirinyaga;Density;persons per sq. km;2019;413;KE-200-KR
+Muranga;Total Population;Number;2019;1056640;KE-200-MU
+Muranga;Male;Number;2019;523940;KE-200-MU
+Muranga;Female;Number;2019;532669;KE-200-MU
+Muranga;Total Households;Number;2019;318105;KE-200-MU
+Muranga;Land Area;sq. km;2019;2523;KE-200-MU
+Muranga;Density;persons per sq. km;2019;419;KE-200-MU
+Kiambu;Total Population;Number;2019;2417735;KE-200-KI
+Kiambu;Male;Number;2019;1187146;KE-200-KI
+Kiambu;Female;Number;2019;1230454;KE-200-KI
+Kiambu;Total Households;Number;2019;795241;KE-200-KI
+Kiambu;Land Area;sq. km;2019;2539;KE-200-KI
+Kiambu;Density;persons per sq. km;2019;952;KE-200-KI
+Turkana;Total Population;Number;2019;926976;KE-700-TU
+Turkana;Male;Number;2019;478087;KE-700-TU
+Turkana;Female;Number;2019;448868;KE-700-TU
+Turkana;Total Households;Number;2019;164519;KE-700-TU
+Turkana;Land Area;sq. km;2019;68233;KE-700-TU
+Turkana;Density;persons per sq. km;2019;14;KE-700-TU
+West Pokot;Total Population;Number;2019;621241;KE-700-WP
+West Pokot;Male;Number;2019;307013;KE-700-WP
+West Pokot;Female;Number;2019;314213;KE-700-WP
+West Pokot;Total Households;Number;2019;116182;KE-700-WP
+West Pokot;Land Area;sq. km;2019;9123;KE-700-WP
+West Pokot;Density;persons per sq. km;2019;68;KE-700-WP
+Samburu;Total Population;Number;2019;310327;KE-700-SA
+Samburu;Male;Number;2019;156774;KE-700-SA
+Samburu;Female;Number;2019;153546;KE-700-SA
+Samburu;Total Households;Number;2019;65910;KE-700-SA
+Samburu;Land Area;sq. km;2019;21090;KE-700-SA
+Samburu;Density;persons per sq. km;2019;15;KE-700-SA
+Trans Nzoia;Total Population;Number;2019;990341;KE-700-TN
+Trans Nzoia;Male;Number;2019;489107;KE-700-TN
+Trans Nzoia;Female;Number;2019;501206;KE-700-TN
+Trans Nzoia;Total Households;Number;2019;223808;KE-700-TN
+Trans Nzoia;Land Area;sq. km;2019;2495;KE-700-TN
+Trans Nzoia;Density;persons per sq. km;2019;397;KE-700-TN
+Uasin Gishu;Total Population;Number;2019;1163186;KE-700-UG
+Uasin Gishu;Male;Number;2019;580269;KE-700-UG
+Uasin Gishu;Female;Number;2019;582889;KE-700-UG
+Uasin Gishu;Total Households;Number;2019;304943;KE-700-UG
+Uasin Gishu;Land Area;sq. km;2019;3399;KE-700-UG
+Uasin Gishu;Density;persons per sq. km;2019;342;KE-700-UG
+Elgeyo Marakwet;Total Population;Number;2019;454480;KE-700-EM
+Elgeyo Marakwet;Male;Number;2019;227317;KE-700-EM
+Elgeyo Marakwet;Female;Number;2019;227151;KE-700-EM
+Elgeyo Marakwet;Total Households;Number;2019;99861;KE-700-EM
+Elgeyo Marakwet;Land Area;sq. km;2019;3032;KE-700-EM
+Elgeyo Marakwet;Density;persons per sq. km;2019;150;KE-700-EM
+Nandi;Total Population;Number;2019;885711;KE-700-NN
+Nandi;Male;Number;2019;441259;KE-700-NN
+Nandi;Female;Number;2019;444430;KE-700-NN
+Nandi;Total Households;Number;2019;199426;KE-700-NN
+Nandi;Land Area;sq. km;2019;2849;KE-700-NN
+Nandi;Density;persons per sq. km;2019;311;KE-700-NN
+Baringo;Total Population;Number;2019;666763;KE-700-BA
+Baringo;Male;Number;2019;336322;KE-700-BA
+Baringo;Female;Number;2019;330428;KE-700-BA
+Baringo;Total Households;Number;2019;142518;KE-700-BA
+Baringo;Land Area;sq. km;2019;10985;KE-700-BA
+Baringo;Density;persons per sq. km;2019;61;KE-700-BA
+Laikipia;Total Population;Number;2019;518560;KE-700-LA
+Laikipia;Male;Number;2019;259440;KE-700-LA
+Laikipia;Female;Number;2019;259102;KE-700-LA
+Laikipia;Total Households;Number;2019;149271;KE-700-LA
+Laikipia;Land Area;sq. km;2019;9508;KE-700-LA
+Laikipia;Density;persons per sq. km;2019;55;KE-700-LA
+Nakuru;Total Population;Number;2019;2162202;KE-700-NA
+Nakuru;Male;Number;2019;1077272;KE-700-NA
+Nakuru;Female;Number;2019;1084835;KE-700-NA
+Nakuru;Total Households;Number;2019;616046;KE-700-NA
+Nakuru;Land Area;sq. km;2019;7505;KE-700-NA
+Nakuru;Density;persons per sq. km;2019;288;KE-700-NA
+Narok;Total Population;Number;2019;1157873;KE-700-NK
+Narok;Male;Number;2019;579042;KE-700-NK
+Narok;Female;Number;2019;578805;KE-700-NK
+Narok;Total Households;Number;2019;241125;KE-700-NK
+Narok;Land Area;sq. km;2019;17932;KE-700-NK
+Narok;Density;persons per sq. km;2019;65;KE-700-NK
+Kajiado;Total Population;Number;2019;1117840;KE-700-KA
+Kajiado;Male;Number;2019;557098;KE-700-KA
+Kajiado;Female;Number;2019;560704;KE-700-KA
+Kajiado;Total Households;Number;2019;316179;KE-700-KA
+Kajiado;Land Area;sq. km;2019;21871;KE-700-KA
+Kajiado;Density;persons per sq. km;2019;51;KE-700-KA
+Bomet;Total Population;Number;2019;901777;KE-700-BO
+Bomet;Male;Number;2019;450741;KE-700-BO
+Bomet;Female;Number;2019;451008;KE-700-BO
+Bomet;Total Households;Number;2019;206036;KE-700-BO
+Bomet;Land Area;sq. km;2019;2436;KE-700-BO
+Bomet;Density;persons per sq. km;2019;370;KE-700-BO
+Kericho;Total Population;Number;2019;875689;KE-700-KR
+Kericho;Male;Number;2019;434287;KE-700-KR
+Kericho;Female;Number;2019;441379;KE-700-KR
+Kericho;Total Households;Number;2019;187641;KE-700-KR
+Kericho;Land Area;sq. km;2019;2507;KE-700-KR
+Kericho;Density;persons per sq. km;2019;349;KE-700-KR
+Kakamega;Total Population;Number;2019;1867579;KE-800-KA
+Kakamega;Male;Number;2019;897133;KE-800-KA
+Kakamega;Female;Number;2019;970406;KE-800-KA
+Kakamega;Total Households;Number;2019;433207;KE-800-KA
+Kakamega;Land Area;sq. km;2019;3017;KE-800-KA
+Kakamega;Density;persons per sq. km;2019;619;KE-800-KA
+Vihiga;Total Population;Number;2019;590013;KE-800-VI
+Vihiga;Male;Number;2019;283678;KE-800-VI
+Vihiga;Female;Number;2019;306323;KE-800-VI
+Vihiga;Total Households;Number;2019;143365;KE-800-VI
+Vihiga;Land Area;sq. km;2019;564;KE-800-VI
+Vihiga;Density;persons per sq. km;2019;1047;KE-800-VI
+Bungoma;Total Population;Number;2019;1670570;KE-800-BU
+Bungoma;Male;Number;2019;812146;KE-800-BU
+Bungoma;Female;Number;2019;858389;KE-800-BU
+Bungoma;Total Households;Number;2019;358796;KE-800-BU
+Bungoma;Land Area;sq. km;2019;3024;KE-800-BU
+Bungoma;Density;persons per sq. km;2019;552;KE-800-BU
+Busia;Total Population;Number;2019;893681;KE-800-BS
+Busia;Male;Number;2019;426252;KE-800-BS
+Busia;Female;Number;2019;467401;KE-800-BS
+Busia;Total Households;Number;2019;198152;KE-800-BS
+Busia;Land Area;sq. km;2019;1700;KE-800-BS
+Busia;Density;persons per sq. km;2019;526;KE-800-BS
+Siaya;Total Population;Number;2019;993183;KE-600-SI
+Siaya;Male;Number;2019;471669;KE-600-SI
+Siaya;Female;Number;2019;521496;KE-600-SI
+Siaya;Total Households;Number;2019;250698;KE-600-SI
+Siaya;Land Area;sq. km;2019;2530;KE-600-SI
+Siaya;Density;persons per sq. km;2019;393;KE-600-SI
+Kisumu;Total Population;Number;2019;1155574;KE-600-KI
+Kisumu;Male;Number;2019;560942;KE-600-KI
+Kisumu;Female;Number;2019;594609;KE-600-KI
+Kisumu;Total Households;Number;2019;300745;KE-600-KI
+Kisumu;Land Area;sq. km;2019;2085;KE-600-KI
+Kisumu;Density;persons per sq. km;2019;554;KE-600-KI
+Homabay;Total Population;Number;2019;1131950;KE-600-HB
+Homabay;Male;Number;2019;539560;KE-600-HB
+Homabay;Female;Number;2019;592367;KE-600-HB
+Homabay;Total Households;Number;2019;262036;KE-600-HB
+Homabay;Land Area;sq. km;2019;3153;KE-600-HB
+Homabay;Density;persons per sq. km;2019;359;KE-600-HB
+Kisii;Total Population;Number;2019;1116436;KE-600-KK
+Kisii;Male;Number;2019;536187;KE-600-KK
+Kisii;Female;Number;2019;580214;KE-600-KK
+Kisii;Total Households;Number;2019;240168;KE-600-KK
+Kisii;Land Area;sq. km;2019;2613;KE-600-KK
+Kisii;Density;persons per sq. km;2019;427;KE-600-KK
+Migori;Total Population;Number;2019;1266860;KE-600-MI
+Migori;Male;Number;2019;605784;KE-600-MI
+Migori;Female;Number;2019;661038;KE-600-MI
+Migori;Total Households;Number;2019;308054;KE-600-MI
+Migori;Land Area;sq. km;2019;1323;KE-600-MI
+Migori;Density;persons per sq. km;2019;957;KE-600-MI
+Nyamira;Total Population;Number;2019;605576;KE-600-NN
+Nyamira;Male;Number;2019;290907;KE-600-NN
+Nyamira;Female;Number;2019;314656;KE-600-NN
+Nyamira;Total Households;Number;2019;150669;KE-600-NN
+Nyamira;Land Area;sq. km;2019;897;KE-600-NN
+Nyamira;Density;persons per sq. km;2019;675;KE-600-NN
+Nairobi City;Total Population;Number;2019;4397073;KE-110-NA
+Nairobi City;Male;Number;2019;2192452;KE-110-NA
+Nairobi City;Female;Number;2019;2204376;KE-110-NA
+Nairobi City;Total Households;Number;2019;1506888;KE-110-NA
+Nairobi City;Land Area;sq. km;2019;704;KE-110-NA
+Nairobi City;Density;persons per sq. km;2019;6247;KE-110-NA

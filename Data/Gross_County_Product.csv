@@ -1,0 +1,144 @@
+Table;Table Name;Administrative Unit;Administrative Unit Name;Administrative Unit - RegionId;Scale;2013;2014;2015;2016;2017;2018;2019;2020
+TI;County Contribution to Gross Value Added (GVA) (%);C2;Mombasa;KE-300-MO;units;5,6;5,4;5,2;5,2;5,2;5,1;5;4,7
+TI;County Contribution to Gross Value Added (GVA) (%);C3;Kwale;KE-300-KW;units;1,1;1,2;1,1;1,1;1,2;1,2;1,2;1,2
+TI;County Contribution to Gross Value Added (GVA) (%);C4;Kilifi;KE-300-KI;units;2,3;2,3;2,2;2,1;2,1;2,1;2,1;2,1
+TI;County Contribution to Gross Value Added (GVA) (%);C5;Tana River;KE-300-TR;units;0,3;0,3;0,3;0,3;0,3;0,3;0,3;0,3
+TI;County Contribution to Gross Value Added (GVA) (%);C6;Lamu;KE-300-LA;units;0,3;0,3;0,3;0,3;0,3;0,3;0,3;0,3
+TI;County Contribution to Gross Value Added (GVA) (%);C7;Taita Taveta;KE-300-TT;units;0,6;0,7;0,6;0,6;0,6;0,6;0,6;0,6
+TI;County Contribution to Gross Value Added (GVA) (%);C8;Garissa;KE-500-GA;units;0,6;0,6;0,6;0,6;0,6;0,6;0,6;0,6
+TI;County Contribution to Gross Value Added (GVA) (%);C9;Wajir;KE-500-WA;units;0,5;0,5;0,5;0,5;0,5;0,5;0,5;0,5
+TI;County Contribution to Gross Value Added (GVA) (%);C10;Mandera;KE-500-MA;units;0,5;0,5;0,5;0,5;0,5;0,5;0,5;0,6
+TI;County Contribution to Gross Value Added (GVA) (%);C11;Marsabit;KE-400-MB;units;0,5;0,5;0,5;0,5;0,5;0,5;0,6;0,6
+TI;County Contribution to Gross Value Added (GVA) (%);C12;Isiolo;KE-400-IS;units;0,3;0,2;0,3;0,3;0,3;0,3;0,3;0,3
+TI;County Contribution to Gross Value Added (GVA) (%);C13;Meru;KE-400-MU;units;3;3,1;3,2;3,2;3,2;3,1;3,4;3,5
+TI;County Contribution to Gross Value Added (GVA) (%);C14;Tharaka-Nithi;KE-400-TN;units;0,6;0,6;0,6;0,6;0,6;0,6;0,6;0,6
+TI;County Contribution to Gross Value Added (GVA) (%);C15;Embu;KE-400-EM;units;1,7;1,6;1,5;1,6;1,5;1,6;1,5;1,6
+TI;County Contribution to Gross Value Added (GVA) (%);C16;Kitui;KE-400-KI;units;1,2;1,3;1,3;1,2;1,2;1,3;1,4;1,4
+TI;County Contribution to Gross Value Added (GVA) (%);C17;Machakos;KE-400-MC;units;3,9;3,8;3,7;3,5;3,3;3,3;3,2;3,2
+TI;County Contribution to Gross Value Added (GVA) (%);C18;Makueni;KE-400-MA;units;1,1;1,1;1,1;1,1;1,1;1,1;1,2;1,1
+TI;County Contribution to Gross Value Added (GVA) (%);C19;Nyandarua;KE-200-NY;units;1;1,2;1,3;1,4;1,5;1,4;1,5;1,5
+TI;County Contribution to Gross Value Added (GVA) (%);C20;Nyeri;KE-200-NE;units;2;2,1;2,1;2,1;2,1;2;2,1;2,1
+TI;County Contribution to Gross Value Added (GVA) (%);C21;Kirinyaga;KE-200-KR;units;1,4;1,3;1,3;1,3;1,4;1,3;1,3;1,3
+TI;County Contribution to Gross Value Added (GVA) (%);C22;Murang'a;KE-200-MU;units;2;2;2;2;2;2;1,9;2
+TI;County Contribution to Gross Value Added (GVA) (%);C23;Kiambu;KE-200-KI;units;6;5,9;6;6;5,9;5,7;5,7;5,6
+TI;County Contribution to Gross Value Added (GVA) (%);C24;Turkana;KE-700-TU;units;1;1;1,1;1;1;1,1;1,1;1,1
+TI;County Contribution to Gross Value Added (GVA) (%);C25;West Pokot;KE-700-WP;units;0,7;0,7;0,7;0,8;0,7;0,7;0,7;0,8
+TI;County Contribution to Gross Value Added (GVA) (%);C26;Samburu;KE-700-SA;units;0,3;0,3;0,3;0,3;0,3;0,3;0,3;0,3
+TI;County Contribution to Gross Value Added (GVA) (%);C27;Trans-Nzoia;KE-700-TN;units;1,6;1,6;1,6;1,5;1,6;1,7;1,6;1,7
+TI;County Contribution to Gross Value Added (GVA) (%);C28;Uasin-Gishu;KE-700-UG;units;2,5;2,5;2,4;2,4;2,4;2,4;2,4;2,3
+TI;County Contribution to Gross Value Added (GVA) (%);C29;Elgeyo-Marakwet;KE-700-EM;units;0,8;0,8;0,7;0,8;0,9;1;1,1;1,2
+TI;County Contribution to Gross Value Added (GVA) (%);C30;Nandi;KE-700-NN;units;1,6;1,5;1,5;1,5;1,6;1,6;1,5;1,5
+TI;County Contribution to Gross Value Added (GVA) (%);C31;Baringo;KE-700-BA;units;0,7;0,8;0,8;0,7;0,8;0,7;0,8;0,8
+TI;County Contribution to Gross Value Added (GVA) (%);C32;Laikipia;KE-700-LA;units;0,9;0,9;0,9;1;0,9;0,9;0,9;1
+TI;County Contribution to Gross Value Added (GVA) (%);C33;Nakuru;KE-700-NA;units;4,6;5;5,1;5,3;4,9;4,8;4,9;4,9
+TI;County Contribution to Gross Value Added (GVA) (%);C34;Narok;KE-700-NK;units;1,6;1,5;1,6;1,6;1,7;1,7;1,7;1,7
+TI;County Contribution to Gross Value Added (GVA) (%);C35;Kajiado;KE-700-KA;units;1,6;1,5;1,5;1,6;1,5;1,5;1,5;1,5
+TI;County Contribution to Gross Value Added (GVA) (%);C36;Kericho;KE-700-KR;units;1,8;1,7;1,7;1,6;1,7;1,7;1,6;1,7
+TI;County Contribution to Gross Value Added (GVA) (%);C37;Bomet;KE-700-BO;units;1,3;1,2;1,4;1,5;1,6;1,6;1,5;1,5
+TI;County Contribution to Gross Value Added (GVA) (%);C38;Kakamega;KE-800-KA;units;2,2;2,2;2,1;2,2;2,2;2,2;2,2;2,2
+TI;County Contribution to Gross Value Added (GVA) (%);C39;Vihiga;KE-800-VI;units;0,8;0,8;0,8;0,8;0,8;0,8;0,8;0,9
+TI;County Contribution to Gross Value Added (GVA) (%);C40;Bungoma;KE-800-BU;units;2,1;2,2;2;2;2,1;2,1;2,1;2,1
+TI;County Contribution to Gross Value Added (GVA) (%);C41;Busia;KE-800-BS;units;0,8;0,8;0,8;0,8;0,8;0,8;0,9;0,9
+TI;County Contribution to Gross Value Added (GVA) (%);C42;Siaya;KE-600-SI;units;1;1;1;1;1;1;1,1;1,1
+TI;County Contribution to Gross Value Added (GVA) (%);C43;Kisumu;KE-600-KI;units;2,7;2,6;2,6;2,5;2,5;2,6;2,5;2,5
+TI;County Contribution to Gross Value Added (GVA) (%);C44;Homa-Bay;KE-600-HB;units;1,3;1,3;1,2;1,2;1,2;1,3;1,2;1,2
+TI;County Contribution to Gross Value Added (GVA) (%);C45;Migori;KE-600-MI;units;1,3;1,3;1,2;1,1;1,2;1,2;1,2;1,2
+TI;County Contribution to Gross Value Added (GVA) (%);C46;Kisii;KE-600-KK;units;1,9;2;2;2;2,1;2;2;2
+TI;County Contribution to Gross Value Added (GVA) (%);C47;Nyamira;KE-600-NN;units;1,1;1;1;1,1;1,1;1,2;1,2;1,2
+TI;County Contribution to Gross Value Added (GVA) (%);C48;Nairobi;KE-110-NA;units;27,5;27,5;27,6;27,6;27,5;27,7;27,6;27
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C1;Total;KE;units;6015951;6301542;6635134;6926656;7178460;7580588;7967464;8001274
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C2;Mombasa;KE-300-MO;units;317699;330391;342291;360607;382064;399119;416151;402373
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C3;Kwale;KE-300-KW;units;75198;75830;74970;76668;84384;88658;90274;92577
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C4;Kilifi;KE-300-KI;units;130301;136278;145327;148001;153129;158516;167516;163818
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C5;Tana River;KE-300-TR;units;18995;17545;21827;20410;19662;20982;23447;24314
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C6;Lamu;KE-300-LA;units;19380;19782;21544;21794;23257;25624;27431;26861
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C7;Taita Taveta;KE-300-TT;units;38742;41368;43148;44822;45810;48196;50587;50280
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C8;Garissa;KE-500-GA;units;33954;35368;36644;42138;42731;46838;47872;50092
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C9;Wajir;KE-500-WA;units;29602;28170;34235;35965;37222;38279;40935;41150
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C10;Mandera;KE-500-MA;units;31039;30875;33342;34630;35361;39675;43228;47699
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C11;Marsabit;KE-400-MB;units;31770;31058;34874;36303;34445;38120;48834;50186
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C12;Isiolo;KE-400-IS;units;15656;15357;17288;17882;18316;20435;22065;22465
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C13;Meru;KE-400-MU;units;196582;206350;215504;219506;222453;228268;242357;243190
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C14;Tharaka-Nithi;KE-400-TN;units;36893;37485;38971;40723;42828;45876;46386;48320
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C15;Embu;KE-400-EM;units;104661;98989;99604;110211;108828;118065;114651;121412
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C16;Kitui;KE-400-KI;units;76037;82708;87402;82015;87429;94953;103534;102772
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C17;Machakos;KE-400-MC;units;218816;226474;238078;241146;246942;261253;264050;265962
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C18;Makueni;KE-400-MA;units;67069;68953;74800;77054;78146;85563;92088;88687
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C19;Nyandarua;KE-200-NY;units;77294;84597;95657;94896;104138;101197;109895;107389
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C20;Nyeri;KE-200-NE;units;128188;135428;143708;146313;145284;149998;160715;164267
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C21;Kirinyaga;KE-200-KR;units;81667;83360;87782;91645;96449;95553;101992;101500
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C22;Murang'a;KE-200-MU;units;129266;135675;138092;141567;137995;144211;147170;153219
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C23;Kiambu;KE-200-KI;units;358143;375967;398008;417022;427146;435641;457744;453872
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C24;Turkana;KE-700-TU;units;60515;61295;68948;68983;70925;79766;86329;87077
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C25;West Pokot;KE-700-WP;units;40965;42887;47587;52040;48660;52795;57534;61784
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C26;Samburu;KE-700-SA;units;16224;15900;19001;20921;20380;21743;24574;24394
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C27;Trans-Nzoia;KE-700-TN;units;93263;97382;103544;104415;107948;124705;125619;129367
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C28;Uasin-Gishu;KE-700-UG;units;144209;150122;157315;164641;173523;181918;191598;189017
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C29;Elgeyo-Marakwet;KE-700-EM;units;54508;58224;50922;57741;64045;76336;82172;83396
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C30;Nandi;KE-700-NN;units;92775;98632;100916;107119;108127;118134;115286;117952
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C31;Baringo;KE-700-BA;units;46891;48386;50400;51367;54892;54156;59408;59642
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C32;Laikipia;KE-700-LA;units;53235;54250;61119;67322;66294;70913;73628;74155
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C33;Nakuru;KE-700-NA;units;285854;318470;338995;366157;352340;366443;391562;388539
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C34;Narok;KE-700-NK;units;96444;96676;105024;110543;119067;125904;130555;131624
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C35;Kajiado;KE-700-KA;units;89215;93688;97111;107864;106773;116223;124728;126633
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C36;Kericho;KE-700-KR;units;101727;108641;110581;113619;119173;125948;128793;133866
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C37;Bomet;KE-700-BO;units;81679;84159;89594;100563;105326;114440;114113;121387
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C38;Kakamega;KE-800-KA;units;133939;140339;145163;153829;152596;162745;170174;169332
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C39;Vihiga;KE-800-VI;units;50474;49977;50869;54064;54465;59406;62186;62636
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C40;Bungoma;KE-800-BU;units;128112;137418;135686;137119;146373;153325;157087;156999
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C41;Busia;KE-800-BS;units;51755;53215;55030;57305;58501;61840;68915;71153
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C42;Siaya;KE-600-SI;units;62265;65638;69541;66852;71616;77045;81919;82471
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C43;Kisumu;KE-600-KI;units;156704;161522;169982;173977;184041;196103;207326;210540
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C44;Homa-Bay;KE-600-HB;units;78299;81646;82188;82970;86344;92641;93771;93235
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C45;Migori;KE-600-MI;units;75738;81321;80914;77883;88172;92405;97172;96457
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C46;Kisii;KE-600-KK;units;122892;128736;133230;140651;147121;147649;149431;150454
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C47;Nyamira;KE-600-NN;units;68749;67982;70945;75393;76996;85852;86544;89311
+T2;Gross County Product (GCP) 2013-2020, in Constant Prices KSh million;C48;Nairobi;KE-110-NA;units;1612572;1707029;1817432;1912001;2020743;2137131;2268114;2267447
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C1;Total;KE;units;4831317;5482980;6289246;6926656;7754323;8531502;9389865;9892187
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C2;Mombasa;KE-300-MO;units;268326;296857;329262;360583;401393;435527;469584;467395
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C3;Kwale;KE-300-KW;units;54196;63269;69230;76614;90621;100084;108658;119666
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C4;Kilifi;KE-300-KI;units;108937;123451;140018;147927;162766;177795;199179;204172
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C5;Tana River;KE-300-TR;units;15525;15557;21051;20381;21095;23567;27627;29866
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C6;Lamu;KE-300-LA;units;15858;17692;20555;21762;25262;29032;32338;32857
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C7;Taita Taveta;KE-300-TT;units;30583;36029;40677;44757;49589;54640;60879;63564
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C8;Garissa;KE-500-GA;units;27974;31185;35064;42043;44901;51491;54939;59910
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C9;Wajir;KE-500-WA;units;24585;24940;33043;35897;39367;42654;47473;49816
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C10;Mandera;KE-500-MA;units;25568;27144;31990;34585;37159;44123;51056;58925
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C11;Marsabit;KE-400-MB;units;25515;27189;33502;36260;36770;43207;56711;61434
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C12;Isiolo;KE-400-IS;units;12909;13640;16623;17834;19441;22668;25117;26558
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C13;Meru;KE-400-MU;units;147102;171460;199076;219479;245618;266532;316093;345319
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C14;Tharaka-Nithi;KE-400-TN;units;28567;32011;36589;40663;46834;52405;56281;61957
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C15;Embu;KE-400-EM;units;81946;87820;94830;110119;119393;134488;138867;153927
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C16;Kitui;KE-400-KI;units;60075;72847;82809;81962;93698;108868;127567;136380
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C17;Machakos;KE-400-MC;units;187900;207763;233910;241041;255999;281256;297350;313559
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C18;Makueni;KE-400-MA;units;53770;61198;70965;76949;84440;97112;109383;111071
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C19;Nyandarua;KE-200-NY;units;49785;63090;83756;94845;116560;118231;140734;150062
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C20;Nyeri;KE-200-NE;units;97658;112940;132022;146215;160013;170042;193645;210393
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C21;Kirinyaga;KE-200-KR;units;65691;72392;82852;91586;107410;109636;123676;130263
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C22;Murang'a;KE-200-MU;units;98712;111428;128486;141455;155172;166679;180780;200682
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C23;Kiambu;KE-200-KI;units;288907;326154;379163;416982;457309;485980;532498;553312
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C24;Turkana;KE-700-TU;units;49299;54544;66403;69000;75379;90657;102987;109101
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C25;West Pokot;KE-700-WP;units;31709;37854;44695;51967;52618;59617;68726;80546
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C26;Samburu;KE-700-SA;units;13325;14199;18241;20885;21670;24177;28158;29211
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C27;Trans-Nzoia;KE-700-TN;units;75679;87050;97577;104333;121646;144331;151566;165121
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C28;Uasin-Gishu;KE-700-UG;units;120604;135456;149902;165347;188441;204757;224099;228846
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C29;Elgeyo-Marakwet;KE-700-EM;units;36579;45062;46129;57669;70844;88863;104844;117047
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C30;Nandi;KE-700-NN;units;77281;82247;97175;107066;123863;137891;140534;150753
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C31;Baringo;KE-700-BA;units;35852;42040;47684;51259;59403;61894;71544;76636
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C32;Laikipia;KE-700-LA;units;41503;47212;57265;67338;72070;80913;88501;94810
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C33;Nakuru;KE-700-NA;units;221472;276385;321433;365966;381200;411565;461636;480539
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C34;Narok;KE-700-NK;units;77146;83271;97661;110535;132231;144118;156813;166662
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C35;Kajiado;KE-700-KA;units;75124;84306;93363;107862;113464;129862;143199;150413
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C36;Kericho;KE-700-KR;units;85265;90931;107483;113543;134951;145575;152420;164714
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C37;Bomet;KE-700-BO;units;64268;67305;85548;100542;120512;133969;137691;152744
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C38;Kakamega;KE-800-KA;units;105821;119890;134493;153745;172060;186943;203904;214068
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C39;Vihiga;KE-800-VI;units;37657;42181;47227;54045;59954;68644;78080;85407
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C40;Bungoma;KE-800-BU;units;99597;118448;126232;137028;163810;177336;193711;206705
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C41;Busia;KE-800-BS;units;40108;46062;51610;57251;64007;71210;83280;90817
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C42;Siaya;KE-600-SI;units;47453;55842;64904;66795;78069;88306;99092;106259
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C43;Kisumu;KE-600-KI;units;130396;144502;162500;173966;196956;218443;238564;249440
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C44;Homa-Bay;KE-600-HB;units;61948;70995;76973;82914;95138;107041;115057;122198
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C45;Migori;KE-600-MI;units;61138;71001;75724;77859;96610;104271;114770;121106
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C46;Kisii;KE-600-KK;units;92408;106980;124285;140528;165092;171748;185041;199333
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C47;Nyamira;KE-600-NN;units;51086;54626;65889;75371;87429;100846;108286;118792
+T3;Gross County Product (GCP) 2013-2020, in Current Prices KSh million;C48;Nairobi;KE-110-NA;units;1328511;1508534;1733377;1913903;2136097;2362505;2586926;2669829
