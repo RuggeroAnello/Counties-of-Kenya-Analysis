@@ -1,1 +1,2 @@
 # Counties-of-Kenya-Analysis
+This analysis aims to gain insight on the differences among counties in Kenya. Data is collected from Kenya National Bureau of Statistics and can be easily downloaded from the "Data" folder. Data consists of three tables: Gross_County_Product, Population and Education. These contain social and economic informations on the 47 counties of Kenya and represent the foundation for my analysis.
