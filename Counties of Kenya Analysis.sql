@@ -253,6 +253,6 @@ FROM
 ORDER BY 
 		N_students_ranking ASC;
 
-/* After performing a rank regression for the two variables, results show that correlation coefficient is only 0,388 (moderate degree of correlation), 
-but Significance F is lower than 0,01 (statistically significant relationship).  */
+/* After performing a rank regression for the two variables, results show that correlation coefficient is only 0.388 -> weak degree of correlation.
+However, Significance F is much lower than 0.05 -> statistically significance.  */
  
